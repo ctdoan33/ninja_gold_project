@@ -1,0 +1,17 @@
+.place{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    border: 1pt solid black;
+}
+.act{
+    min-width: 400px;
+    max-width: 820px;
+    height: 100px;
+    border: 1pt solid black;
+    overflow-y: scroll;
+}
+.log{
+    margin: 0px;
+}
